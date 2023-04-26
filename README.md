@@ -40,6 +40,6 @@
 
 #
 
-![footer](WEBP/footer.webp)
+![footer](footer.webp)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
