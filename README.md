@@ -30,4 +30,43 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=VIRU143&icon=0&color=5)](https://visitcount.itsvg.in)
 
+<h1>
+  Connect With Me
+  <img src="GIF/Handshake.gif" height="25px">
+</h1>
+
+<p align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/virendra-parmar-09014b1b1/" target="_blank">
+    <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
+  </a>
+  <a href="https://www.facebook.com/virendra.parmar.1000/" target="_blank">
+    <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
+  </a>
+  <a href="https://www.instagram.com/_.xx_vir_ex._/" target="_blank">
+    <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
+  </a>
+  
+</p>
+<br/>
+
+<p align="center">
+  <a href="https://leetcode.com/VIREX_143/" target="_blank">
+    <code><img height="60" width="60" src="WEBP/lc.webp"/></code>
+  </a>
+</p>
+
+<br/>
+<br/>
+
+<div align="center">
+
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
+
+#
+
+![footer](WEBP/footer.webp)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
